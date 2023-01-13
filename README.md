@@ -1,6 +1,6 @@
 ### Hi there 👋
 # 💫 About Me:
-I'm currently learning about technologyes like js, html, css, sass<br>or frawekors like bootstrap.<br>Also i have a well knowledge about english, for that i can work in this languge and  in spanish
+I'm currently learning about technologyes like js, html, css, sass<br>or frawekors like bootstrap.<br>Also i have a well knowledge about english, for that i can work in this language and  in spanish
 
 
 ## 🌐 Socials:
