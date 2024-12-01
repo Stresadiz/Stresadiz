@@ -1,6 +1,7 @@
 ### Hi there 👋
 # 💫 About Me:
-I'm currently learning about technologyes like js, html, css, sass<br>or frawekors like bootstrap.<br>Also i have a well knowledge about english, for that i can work in this language and  in spanish
+I'm currently learning about technologyes like Node.js, API's, and BackEnd development.<br>Also i have a well knowledge about english, for that I can work in this language and in spanish.<br>
+Actually I'm a Automation Tester and I use languajes like C#, Java and formats like JSON, XML, YAML (for pipelanes)
 
 
 ## 🌐 Socials:
